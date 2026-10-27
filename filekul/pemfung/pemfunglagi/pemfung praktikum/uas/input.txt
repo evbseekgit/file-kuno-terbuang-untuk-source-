@@ -1,0 +1,55 @@
+===== Sistem Manajemen Data Mahasiswa (Functional Programming) =====
+
+>> Semua Data Mahasiswa (Sorted by BST Traversal):
+Nama: Dina
+Nilai: [50,55,60]
+Rata-rata: 55.0
+
+Nama: Budi
+Nilai: [60,70,75]
+Rata-rata: 68.333336
+
+Nama: Aldi
+Nilai: [80,85,90]
+Rata-rata: 85.0
+
+Nama: Citra
+Nilai: [90,95,93]
+Rata-rata: 92.666664
+
+
+>> Mahasiswa dengan nilai >= 80:
+Nama: Aldi
+Nilai: [80,85,90]
+Rata-rata: 85.0
+
+Nama: Citra
+Nilai: [90,95,93]
+Rata-rata: 92.666664
+
+
+>> Sorting berdasarkan nama:
+Nama: Aldi
+Nilai: [80,85,90]
+Rata-rata: 85.0
+
+Nama: Budi
+Nilai: [60,70,75]
+Rata-rata: 68.333336
+
+Nama: Citra
+Nilai: [90,95,93]
+Rata-rata: 92.666664
+
+Nama: Dina
+Nilai: [50,55,60]
+Rata-rata: 55.0
+
+
+>> Cari mahasiswa 'Citra':
+Nama: Citra
+Nilai: [90,95,93]
+Rata-rata: 92.666664
+
+
+Program selesai.
